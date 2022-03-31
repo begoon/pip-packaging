@@ -4,8 +4,8 @@ An example how to build your own simple package, which can be installed by pip.
 
 ## Useful videos about pip packages creation
 
-https://www.youtube.com/watch?v=GIF3LaRqgXo
-https://www.youtube.com/watch?v=4fzAMdLKC5k
+- https://www.youtube.com/watch?v=GIF3LaRqgXo
+- https://www.youtube.com/watch?v=4fzAMdLKC5k
 
 ## Prerequisites
 
