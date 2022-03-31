@@ -2,6 +2,8 @@
 
 An example how to build your own simple package, which can be installed by pip.
 
+https://www.youtube.com/watch?v=GIF3LaRqgXo
+
 ## Prerequisites
 
     pip install wheel
