@@ -1,5 +1,7 @@
 # pip package
 
+An example how to build your own simple package, which can be installed by pip.
+
 ## Prerequisites
 
     pip install wheel
